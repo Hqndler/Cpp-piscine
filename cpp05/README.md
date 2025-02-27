@@ -1,3 +1,3 @@
 # cpp05
 
-Class inheretance and abstract class
+Class inheretance, abstract class and exception
